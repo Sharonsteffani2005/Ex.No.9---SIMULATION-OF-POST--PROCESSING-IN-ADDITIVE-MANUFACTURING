@@ -80,7 +80,8 @@ Procedure for heat treatment
 
 ## Support Removal Process
 
-![EMPD EXP 9 1](https://github.com/Sharonsteffani2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979934/b16c7deb-2755-4aaa-ab37-488152f85692)
+![EMPD EXP 9 1](https://github.com/Sharonsteffani2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979934/cb1905a4-5e12-46a2-be05-4e2216737862)
+
 
 ![EMPD EXP 9 2](https://github.com/Sharonsteffani2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979934/343c698f-4f89-495c-9b69-d30160227768)
 
