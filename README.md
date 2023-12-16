@@ -84,6 +84,16 @@ Procedure for heat treatment
 
 ![EMPD EXP 9 2](https://github.com/Sharonsteffani2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979934/343c698f-4f89-495c-9b69-d30160227768)
 
+## Procedure for UV Curing
+
+![EMPD EXP 9 3](https://github.com/Sharonsteffani2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979934/92727726-d220-42e2-aa7c-93d6825bcaf7)
+
+![EMPD EXP 9 4](https://github.com/Sharonsteffani2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979934/5a2c7cf5-ba98-43c3-9be0-45bb872599bf)
+
+
+
+
+
 
 
 
