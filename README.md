@@ -90,14 +90,12 @@ Procedure for heat treatment
 
 ![EMPD EXP 9 4](https://github.com/Sharonsteffani2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979934/5a2c7cf5-ba98-43c3-9be0-45bb872599bf)
 
+## Heat Treatment of 3D printed part
 
+![EMPD EXP 9 5](https://github.com/Sharonsteffani2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979934/f0fd7731-3482-4a5d-9fb3-7eaa0651839b)
 
+![EMPD EXP 9 6](https://github.com/Sharonsteffani2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979934/8a92da0d-76df-460a-b9d8-dd45441aca60)
 
+## Result:  Thus the simulation on the Postprocessing in additive manufacturing is completed.
 
-
-
-
-
-
-## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
