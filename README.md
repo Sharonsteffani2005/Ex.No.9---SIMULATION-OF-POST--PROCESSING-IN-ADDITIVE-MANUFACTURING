@@ -53,7 +53,7 @@
 ## output:
 ![Screenshot 2023-12-29 091904](https://github.com/Sharonsteffani2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979934/252d652e-5e4e-411e-9d0e-d05411707af5)
 ![Screenshot 2023-12-29 091913](https://github.com/Sharonsteffani2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979934/16af1be7-3938-4632-93a2-4d0bd5792b25)
-![Uploading Screenshot 2023-12-29 091922.png…]()
+![Screenshot 2023-12-29 091922](https://github.com/Sharonsteffani2005/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979934/1742513d-dc3d-4b17-b9f2-07ed59957e0c)
 
 ### Name: SHARON STEFFANI.F
 ### Register Number: 23007577
