@@ -58,6 +58,5 @@
 ### Name: SHARON STEFFANI.F
 ### Register Number: 23007577
 
-
-
-1
+Result:
+Thus the simulation on the Postprocessing in additive manufacturing is completed.
